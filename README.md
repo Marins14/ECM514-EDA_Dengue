@@ -17,4 +17,4 @@ Trabalho semestral da matéria Ciência de Dados
 ## Datafólio do projeto
 - Encontra-se disponível em `datafolio_dengue.pdf`
 
-<img src="./datafolio_dengue_page.jpg"   width="200">
+<img src="./datafolio_dengue_page.jpg"   width="600">
